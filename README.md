@@ -1,4 +1,4 @@
-# <div align="center">✨ Xin chào, tôi là [Tên của bạn](GitHub_URL) ✨</div>
+# <div align="center">✨ Xin chào, tôi là Mazck([GitHub_URL](https://github.com/Mazck)) ✨</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=Nhà+phát+triển+Full-Stack;Chuyên+gia+UX%2FUI;Người+yêu+công+nghệ+và+sáng+tạo;Luôn+tìm+kiếm+điều+mới+mẻ" alt="Typing SVG"/>
