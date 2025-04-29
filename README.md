@@ -138,7 +138,7 @@
 
 <!-- SNAKE GAME -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake game" />
 </div>
 
 <!-- WAVE ANIMATION -->
