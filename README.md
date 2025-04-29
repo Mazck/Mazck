@@ -94,7 +94,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazck&repo=bot_zalo&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Mazck/bot_zolo_ts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazck&repo=bot_zalo&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazck&repo=bot_zolo_ts&theme=radical&hide_border=true" />
   </a>
 </div>
 
