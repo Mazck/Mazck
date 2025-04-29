@@ -43,8 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/[Tên tài khoản GitHub]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Tên tài khoản GitHub]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Tên tài khoản GitHub]&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazck&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
