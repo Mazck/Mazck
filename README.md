@@ -36,11 +36,10 @@
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%" />
   <br><br>
   <ul align="left">
-    <li>🔭 Hiện tại tôi đang làm việc với <b></b></li>
-    <li>🌱 Tôi đang học <b></b></li>
-    <li>👯 Tôi muốn hợp tác về <b></b></li>
+    <li>🔭 Hiện tại tôi đang làm việc với: NodeJs <b></b></li>
+    <li>🌱 Tôi đang học: JS <b></b></li>
+    <li>👯 Tôi muốn hợp tác về: null <b></b></li>
     <li>💬 Hãy hỏi tôi về <b>JavaScript, React, Node.js, và Thiết kế UX/UI</b></li>
-    <li>⚡ Sự thật thú vị: <b></b></li>
   </ul>
 </td>
 </tr>
